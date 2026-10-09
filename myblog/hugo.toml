@@ -1,4 +1,4 @@
-baseURL = 'https://pages.kraasch.eu/'
+baseURL = 'https://kraasch.eu/'
 locale = 'en-us'
 title = 'My Blog'
 theme = 'mytheme'
